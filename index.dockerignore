@@ -1,0 +1,12 @@
+.dockerignore
+.env
+.pytest_cache
+.vscode
+Dockerfile
+README.md
+**/__pycache__
+docker-compose.yml
+example_response
+main_test.py
+poetry.lock
+pyproject.toml
